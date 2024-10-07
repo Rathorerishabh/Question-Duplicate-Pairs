@@ -1,0 +1,5 @@
+streamlit 
+fuzzywuzzy
+bs4
+distance
+lightgbm
