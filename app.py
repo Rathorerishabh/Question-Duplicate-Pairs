@@ -3,7 +3,7 @@ import helper
 import pickle
 
 # Load your model
-model = pickle.load(open('C:\\Users\\risha\\Desktop\\NLP1\\model2.pkl', 'rb'))
+model = pickle.load(open('model2.pkl', 'rb'))
 
 # Custom CSS to make the app more visually appealing
 st.markdown("""
